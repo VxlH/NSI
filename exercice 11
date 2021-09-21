@@ -1,0 +1,3 @@
+a = int(input("longueur d'un coté"))
+b = int(input("largeur d'un coté"))
+print("aire du rectangle :" , a*b )
